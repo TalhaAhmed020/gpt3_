@@ -68,3 +68,16 @@
     }
     
 }
+
+@media screen and (max-width:700px) {
+    .gpt3__possibility{
+        padding: 4rem;
+    }
+}
+
+@media screen and (max-width:550px) {
+    .gpt3__possibility{
+        padding: 4rem 2rem;
+    }
+}
+

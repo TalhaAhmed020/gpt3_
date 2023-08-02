@@ -20,3 +20,16 @@
     width: 71.1px;
     height: 24.15px;
 }
+
+@media screen and (max-width:700px) {
+    .gpt3__brand{
+        padding: 4rem;
+    }
+}
+
+@media screen and (max-width:550px) {
+    .gpt3__brand{
+        padding: 4rem 2rem;
+    }
+}
+
